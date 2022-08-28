@@ -1,4 +1,8 @@
-### Hi there 👋 I'm now just starting my journey to learn how to code with School of Code, I'm excited to embark on this and hope this will be a good way to track my progress #100DaysOfCode
+### Hi there 
+
+## I've recently graduated from #SchoolofCode and I'm now looking for my first career in the tech sector where I can continue to build on the skills I learnt in their intensive sixteen-week boot camp.
+
+
 
 
 
