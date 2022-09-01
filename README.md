@@ -4,7 +4,7 @@ I love solving problems with code and I have an equal love of either working on 
 
 Before deciding to change careers I used to manage the motorway network from a control room and the skills you need to thrive in that team environment is something I'm carrying with me now I'm working with code instead.
 
-When I'm not working on something code-related or spending time with my family I'm a keen gamer and I'm looking forward to building things related to my hobby. Especially those community project that are open source which I soon hope to be able to contribute to!
+When I'm not working on something code-related or spending time with my family I'm a keen gamer and I'm looking forward to building things related to my hobby. Especially those community projects that are open source to which I soon hope to be able to contribute!
 
 
 
